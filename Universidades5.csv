@@ -1,4 +1,4 @@
-name,lng,lat,departamento,provincia,sector_label
+name,longitude,latitude,departamento,provincia,sector_label
 Universidad Nacional Mayor de San Marcos,-77.083333,-12.058333,Lima,Lima,Publica
 Universidad Nacional de San Cristobal de Huamanga,-74.22,-13.148,Ayacucho,Huamanga,Publica
 Universidad Nacional de San Antonio Abad del Cusco,-71.958611,-13.521667,Cusco,Cusco,Publica
